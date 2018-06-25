@@ -1,5 +1,5 @@
 # RitoPls
-#### The ultimate toolkit to debug League of Legends
+#### The ultimate toolkit to debug League of Legends (client, not gameclient)
 
 ## FinalesFunkeln
 This tool allows you to read and see all of the RTMP packets being sent by the client or the server
