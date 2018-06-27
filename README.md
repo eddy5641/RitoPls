@@ -9,12 +9,3 @@ Extermly useful tool; however, the src has not been updated. The compiled beta h
 SRC: https://github.com/frostycpu/FinalesFunkeln
 
 Compiled Beta: https://github.com/eddy5641/RitoPls/releases/tag/ToolKit
-
-## Proxifier and Burp
-These tools allows you to proxy the League of Legends connection and read the HTTPS connection requests (Beautiful MITM Attack)
-
-Proxifier can force League of Legends to connect to Burp proxy
-
-Proxifier: https://www.proxifier.com/download/
-
-Burp: https://portswigger.net/burp
