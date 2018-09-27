@@ -12,3 +12,5 @@ Compiled Beta: https://github.com/eddy5641/RitoPls/releases/tag/ToolKit
 
 ## Burp
 I am using Burp as a HTTPS proxy for the league of legends client. This uses a local MITM attack. I utilize a custom tool for forcing the http requests to go though the Burp proxy.
+
+Burp no longer works, I am now using a specialized attack (code injection) to analyzes https packets. See FakRiotLCU
